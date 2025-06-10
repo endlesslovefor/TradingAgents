@@ -1,5 +1,5 @@
 """
-Setup script for the TradingAgents package.
+Setup script for the TradingAgents packages.
 """
 
 from setuptools import setup, find_packages
